@@ -1,0 +1,108 @@
+{
+    "attackers" : {
+        "Sledge" : {
+            "imgURL" : "https://vignette.wikia.nocookie.net/rainbowsix/images/7/7c/Sledge_-_Profile.png/revision/latest?cb=20151202040415",
+            "iconURL" : "https://vignette.wikia.nocookie.net/rainbowsix/images/7/76/Sledge_Icon_-_Standard.png/revision/latest?cb=20151222045526",
+            "special" : "Breaching Hammer"
+        },
+        "Thatcher" : {
+            "imgURL": "https://vignette.wikia.nocookie.net/rainbowsix/images/4/41/Thatcher_-_Profile.png/revision/latest?cb=20151202042240",
+            "iconURL": "https://vignette.wikia.nocookie.net/rainbowsix/images/6/6d/Thatcher_Icon_-_Standard.png/revision/latest?cb=20151222045527",
+            "special": "EG MKO-EMP Grenade"
+        },
+        "Ash": {
+            "imgURL": "https://vignette.wikia.nocookie.net/rainbowsix/images/f/f1/Ash_-_Profile.png/revision/latest?cb=20151202042100",
+            "iconURL": "https://vignette.wikia.nocookie.net/rainbowsix/images/d/d7/Ash_Icon_-_Standard.png/revision/latest?cb=20151222045522",
+            "special": "Breaching Round"
+        },
+        "Thermite": {
+            "imgURL": "https://vignette.wikia.nocookie.net/rainbowsix/images/d/d2/Thermite_Portrait.png/revision/latest?cb=20151202042120",
+            "iconURL": "https://vignette.wikia.nocookie.net/rainbowsix/images/e/e3/Thermite_Badge_2.png/revision/latest?cb=20151222045527",
+            "special": "Exothermic Charge"
+        },
+        "Twitch": {
+            "imgURL": "https://vignette.wikia.nocookie.net/rainbowsix/images/0/0a/Tom_Clancy%27s_Rainbow_Six%C2%AE_Siege2017-2-5-2-32-71.png/revision/latest?cb=20170227224024",
+            "iconURL": "https://vignette.wikia.nocookie.net/rainbowsix/images/4/47/Twitch_Badge_New_2.png/revision/latest?cb=20151222045527",
+            "special": "Shock Drone"
+        },
+        "Montagne": {
+            "imgURL": "https://vignette.wikia.nocookie.net/rainbowsix/images/9/9f/Montagne_Portrait.png/revision/latest?cb=20151202042136",
+            "iconURL": "https://vignette.wikia.nocookie.net/rainbowsix/images/b/be/Montagne_Badge_2.png/revision/latest?cb=20151222045525",
+            "special": "Extendable Shield"
+        },
+        "Glaz": {
+            "imgURL": "https://vignette.wikia.nocookie.net/rainbowsix/images/b/b6/Glaz_Portrait.png/revision/latest?cb=20151202042257",
+            "iconURL": "https://vignette.wikia.nocookie.net/rainbowsix/images/8/8d/Glaz_Badge_2.png/revision/latest?cb=20151222045524",
+            "special": "Flip Sight"
+        },
+        "Fuze": {
+            "imgURL": "https://vignette.wikia.nocookie.net/rainbowsix/images/c/c2/Fuze_Portrait.png/revision/latest?cb=20151202042250",
+            "iconURL": "https://vignette.wikia.nocookie.net/rainbowsix/images/3/3f/Fuze_Badge_2.png/revision/latest?cb=20151222045524",
+            "special": "Cluster Charge"
+        },
+        "Blitz": {
+            "imgURL": "https://vignette.wikia.nocookie.net/rainbowsix/images/2/2c/Blitz_Portrait.png/revision/latest?cb=20151202042202",
+            "iconURL": "https://vignette.wikia.nocookie.net/rainbowsix/images/6/62/Blitz_Badge_2.png/revision/latest?cb=20151222045523",
+            "special": "Flash Shield"
+        },
+        "IQ": {
+            "imgURL": "https://vignette.wikia.nocookie.net/rainbowsix/images/f/f1/IQ_Portrait.png/revision/latest?cb=20151202042211",
+            "iconURL": "https://vignette.wikia.nocookie.net/rainbowsix/images/b/b7/IQ_Badge_2.png/revision/latest?cb=20151222045524",
+            "special": "Electronics Detector"
+        },
+        "Buck": {
+            "imgURL": "https://vignette.wikia.nocookie.net/rainbowsix/images/b/b7/Buck_%28No_Background%29_Portrait.png/revision/latest?cb=20160416125927",
+            "iconURL": "https://vignette.wikia.nocookie.net/rainbowsix/images/3/34/Buck_Badge_New.png/revision/latest?cb=20160203040454",
+            "special": "Skeleton Key"
+        },
+        "Blackbeard": {
+            "imgURL": "https://vignette.wikia.nocookie.net/rainbowsix/images/1/15/Blackbeard_Portrait.png/revision/latest?cb=20171020125529",
+            "iconURL": "https://vignette.wikia.nocookie.net/rainbowsix/images/d/dd/Blackbeard_badge.png/revision/latest?cb=20160509214645",
+            "special": "Rifle-Shield"
+        },
+        "Capitão": {
+            "imgURL": "https://vignette.wikia.nocookie.net/rainbowsix/images/f/fe/Capitao_Portrait.png/revision/latest?cb=20171022102221",
+            "iconURL": "https://vignette.wikia.nocookie.net/rainbowsix/images/4/4e/R6S-badge-capitao.png/revision/latest?cb=20160802150526",
+            "special": "Tactical Crossbow"
+        },
+        "Hibana": {
+            "imgURL": "https://vignette.wikia.nocookie.net/rainbowsix/images/3/36/Hibana_Portrait.png/revision/latest?cb=20171026143110",
+            "iconURL": "https://vignette.wikia.nocookie.net/rainbowsix/images/7/79/R6S-hibana.png/revision/latest?cb=20161118012747",
+            "special": "X-KAIROS"
+        },
+        "Jackal": {
+            "imgURL": "https://vignette.wikia.nocookie.net/rainbowsix/images/7/7a/Jackal_Portrait.png/revision/latest?cb=20171026144411",
+            "iconURL": "https://vignette.wikia.nocookie.net/rainbowsix/images/d/d4/R6S-jackal.png/revision/latest?cb=20170206195745",
+            "special": "Eyenox Model"
+        },
+        "Ying": {
+            "imgURL": "https://vignette.wikia.nocookie.net/rainbowsix/images/f/ff/Ying_Portrait.png/revision/latest?cb=20171016121448",
+            "iconURL": "https://vignette.wikia.nocookie.net/rainbowsix/images/d/d7/R6S-Ying.png/revision/latest?cb=20170828194010",
+            "special": "Candela"
+        },
+        "Zofia": {
+            "imgURL": "https://vignette.wikia.nocookie.net/rainbowsix/images/3/3b/Zofia_Portrait.png/revision/latest?cb=20171124103047",
+            "iconURL": "https://vignette.wikia.nocookie.net/rainbowsix/images/f/fb/Zofia_icon.png/revision/latest?cb=20171115182418",
+            "special": "KS79 LIFELINE"
+        },
+        "Dokkaebi": {
+            "imgURL": "https://vignette.wikia.nocookie.net/rainbowsix/images/d/da/Dokkaebi_Portrait.png/revision/latest?cb=20171124222419",
+            "iconURL": "https://vignette.wikia.nocookie.net/rainbowsix/images/0/0c/Dokkaebi_icon.png/revision/latest?cb=20171120222956",
+            "special": "Logic Bomb"
+        },
+        "Lion": {
+            "imgURL": "https://vignette.wikia.nocookie.net/rainbowsix/images/0/0f/Lion_-_Profile.png/revision/latest?cb=20180523163003",
+            "iconURL": "https://vignette.wikia.nocookie.net/rainbowsix/images/4/47/Lion.png/revision/latest?cb=20180220011251",
+            "special": "EE-ONE-D"
+        },
+        "Finka": {
+            "imgURL": "https://vignette.wikia.nocookie.net/rainbowsix/images/4/47/Finka_-_Profile.png/revision/latest?cb=20180523162821",
+            "iconURL": "https://vignette.wikia.nocookie.net/rainbowsix/images/d/de/Finka_icon.png/revision/latest?cb=20180220011308",
+            "special": "Adrenal Surge"
+        }
+    },
+
+    "defenders" : {
+
+    }
+}
